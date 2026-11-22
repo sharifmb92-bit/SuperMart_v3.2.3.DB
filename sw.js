@@ -1,4 +1,4 @@
-const CACHE_NAME = 'supermart-v3-2-5';
+const CACHE_NAME = 'supermart-v3-2-3';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
